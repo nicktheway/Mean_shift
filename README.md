@@ -1,7 +1,7 @@
 # Mean_shift
 A cuda implemented mean-shift algorithm
 
-##To compile the programs:
+## To compile the programs:
 ```
 > cd source
 > make
